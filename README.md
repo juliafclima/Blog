@@ -30,10 +30,6 @@ ng serve
 
 A aplicação estará disponível em `http://localhost:4200/`.
 
-## Estrutura
-
-Em construção...
-
 ## Contribuição
 
 Contribuições são bem-vindas! Se você deseja contribuir para este projeto, por favor, faça um fork do repositório e envie um pull request com suas alterações.
