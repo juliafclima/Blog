@@ -30,3 +30,11 @@ hr {
 .container__small-card-separator {
   margin-top: 10px;
 }
+
+.small-card__text > span {
+  font-weight: 600;
+  color: lightgrey;
+  font-size: 12px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}

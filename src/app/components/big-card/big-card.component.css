@@ -15,11 +15,19 @@
 
 .big-card__title > h1 {
   font-size: 20px;
-  margin-top: 15px;
+  margin-top: 10px;
   color: #fff;
 }
 
 .big-card__description {
   margin-top: 10px;
   color: #808080;
+}
+
+.small-card__text > span {
+  font-weight: 600;
+  color: lightgrey;
+  margin-top: 5px;
+  font-size: 12px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
