@@ -10,7 +10,7 @@
   flex-direction: row;
 }
 
-.small-card__photo > img {
+.small-card__photo > a > img {
   width: 200px;
   min-width: 200px;
   margin-right: 10px;
@@ -37,4 +37,19 @@ hr {
   font-size: 12px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+@media (max-width: 900px) {
+  .container__small-card-content {
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .container__small-card {
+    width: 400px;
+  }
+
+  .small-card__photo > a > img {
+    margin-bottom: 10px;
+  }
 }
