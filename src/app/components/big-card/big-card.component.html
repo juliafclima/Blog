@@ -2,26 +2,23 @@
   <div class="big-card__photo">
     <a href="#">
       <img
-        src="https://th.bing.com/th/id/OIP.FjLkalx51D8xJcpixUGJywHaE8?w=270&h=180&c=7&r=0&o=5&dpr=1.7&pid=1.7"
+        src="{{ photoCover }}"
         alt="img placeholder"
-        height="200px"
+        height="300px"
         width="400px"
       />
     </a>
   </div>
   <div class="small-card__text">
-    <span>Março 16, 2024</span>
+    <span>{{ datePost }}</span>
   </div>
   <a href="#">
     <div class="big-card__title">
-      <h1>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</h1>
+      <h1>{{ cardTitle }}</h1>
     </div>
     <div class="big-card__description">
       <p>
-        Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure explicabo
-        fuga, dolorum aliquid est velit? Sint provident eligendi impedit. Ipsam,
-        mollitia impedit! Id reiciendis magni impedit velit, recusandae
-        expedita. Velit?
+        {{ cardDescription }}
       </p>
     </div>
   </a>
