@@ -7,14 +7,14 @@ import { Component, Input } from '@angular/core';
 })
 export class BigCardComponent {
   @Input()
-  photoCover: string ='';
+  photoCover: string ='https://th.bing.com/th/id/OIP.FB4Vo7tHg36cUwDQ2d_tngHaEj?rs=1&pid=ImgDetMain';
 
   @Input()
-  datePost: string = '';
+  datePost: string = 'Janeiro 01, 1111';
 
   @Input()
-  cardTitle: string = '';
+  cardTitle: string = 'Default Card Title';
 
   @Input()
-  cardDescription: string = '';
+  cardDescription: string = 'his is the default description for the card.';
 }
