@@ -46,3 +46,16 @@
   text-indent: 15px;
   text-align: justify;
 }
+
+.content_description > p > a {
+  margin-top: 10px;
+  width: 500px;
+  color: #808080;
+  text-indent: 15px;
+  text-align: justify;
+  margin-left: 5px;
+
+  &:hover {
+    text-decoration: underline;
+  }
+}

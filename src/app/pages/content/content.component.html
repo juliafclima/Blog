@@ -1,18 +1,17 @@
 <div class="container__content">
   <div class="content__cover">
-    <img
-      src="https://th.bing.com/th/id/R.dc8b1732c919ca17845aab44dc3afb27?rik=cV%2b6wvH3pV874w&pid=ImgRaw&r=0"
-      alt="Imagem Default"
-    />
+    <img src="{{ photoCover }}" alt="Imagem Default" />
   </div>
   <div class="content__date">
-    <span>Janeiro 01, 1111</span>
+    <span>{{ contentDate }}</span>
   </div>
   <div class="content__title">
-    <h1>Minha notícia legal</h1>
-    <hr>
+    <h1>{{ contentTitle }}</h1>
+    <hr />
   </div>
   <div class="content_description">
-    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eveniet, quae assumenda. Et architecto odit quod voluptatibus a est quam iste molestiae modi excepturi voluptates non inventore, temporibus, neque omnis at.</p>
+    <p>
+      {{ contentDescription }}<a [href]="linkNews" target="_blank">Veja mais</a>
+    </p>
   </div>
 </div>

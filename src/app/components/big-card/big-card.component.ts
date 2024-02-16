@@ -17,4 +17,7 @@ export class BigCardComponent {
 
   @Input()
   cardDescription: string = 'his is the default description for the card.';
+
+  @Input()
+  Id: string = '0';
 }

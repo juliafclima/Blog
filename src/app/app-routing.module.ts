@@ -10,7 +10,7 @@ const routes: Routes = [
     component: HomeComponent,
   },
   {
-    path: 'conteudo',
+    path: 'conteudo/:id',
     component: ContentComponent,
   },
 ];
