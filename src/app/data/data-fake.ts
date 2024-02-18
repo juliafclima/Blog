@@ -43,4 +43,49 @@ export const dataFake = [
     linkNews:
       'https://noticiasdatv.uol.com.br/noticia/mercado/rainha-na-netflix-galinha-pintadinha-e-arma-classica-na-guerra-do-streaming-115461?cpid=txt',
   },
+  {
+    id: '5',
+    photoCover:
+      'https://1.bp.blogspot.com/-RBJkB_XU550/XujfTsOraBI/AAAAAAABUeI/16FJiRc79YELXgybiQ58RwXNVGcKcILVACLcBGAsYHQ/s1600/img.stpu.com.br.jpg',
+    date: 'Publicado em fevereiro 14, 2024 às 16h00',
+    title:
+      'Descoberta Revolucionária: Cientistas Criam Máquina de Fazer Pizza Voadora',
+    descricao:
+      'Em uma reviravolta inesperada, cientistas em um laboratório secreto anunciaram a criação de uma máquina capaz de fazer pizzas voadoras. Equipada com tecnologia de propulsão de última geração e um forno de alta temperatura, a máquina promete entregar pizzas frescas diretamente na sua janela, eliminando o incômodo da entrega por terra. Os cientistas afirmam que esta inovação vai revolucionar o mundo da culinária rápida e abrir novas possibilidades para a entrega de alimentos.',
+    linkNews:
+      'https://1.bp.blogspot.com/-RBJkB_XU550/XujfTsOraBI/AAAAAAABUeI/16FJiRc79YELXgybiQ58RwXNVGcKcILVACLcBGAsYHQ/s1600/img.stpu.com.br.jpg',
+  },
+  {
+    id: '6',
+    photoCover:
+      'https://th.bing.com/th/id/R.dddf846cda70795b6d16d41000f9e915?rik=bpta3N4yU%2bUqGA&pid=ImgRaw&r=0',
+    date: 'Publicado em março 10, 2024 às 09h32',
+    title:
+      "Máquina de Café Autônoma Quebra Recorde Mundial de 'Fugir' dos Usuários",
+    descricao:
+      'Em uma série de eventos hilariantes, uma máquina de café autônoma desenvolveu uma personalidade própria e decidiu brincar com seus usuários. Relatos indicam que a máquina tem se movido estrategicamente para lugares inacessíveis, emitido sons engraçados e até mesmo enviado mensagens de texto sarcásticas. Enquanto os especialistas tentam resolver o mistério, os funcionários do escritório estão se divertindo com a situação, transformando a pausa para o café em um jogo de gato e rato.',
+    linkNews:
+      'https://th.bing.com/th/id/R.dddf846cda70795b6d16d41000f9e915?rik=bpta3N4yU%2bUqGA&pid=ImgRaw&r=0',
+  },
+  {
+    id: '7',
+    photoCover:
+      'https://image.freepik.com/fotos-gratis/homem-engracado-em-copos-comendo-hamburguer-isolado-no-branco_144627-34430.jpg',
+    date: 'Publicado em março 13, 2024 às 17h11',
+    title:
+      "Restaurante Anuncia Nova Especialidade: Hambúrguer 'Fuga da Cozinha'",
+    descricao:
+      "Um restaurante de renome causou sensação ao anunciar sua mais recente especialidade: o 'Hambúrguer Fuga da Cozinha'. Segundo relatos, o hambúrguer tem uma tendência peculiar de escapar da cozinha assim que é preparado, deslizando habilmente pelas bancadas e fugindo para partes desconhecidas do restaurante. Apesar dos esforços dos chefs para conter a fuga, o hambúrguer parece ter uma mente própria, deixando os clientes em uma mistura de choque e diversão.",
+    linkNews:
+      'https://image.freepik.com/fotos-gratis/homem-engracado-em-copos-comendo-hamburguer-isolado-no-branco_144627-34430.jpg',
+  },
+  {
+    id: '8',
+    photoCover: 'https://i.ytimg.com/vi/L2wib7c8g3o/maxresdefault.jpg',
+    date: '2024-02-18',
+    title: 'Gato É Promovido a Chef de Cozinha em Restaurante Francês',
+    descricao:
+      'Em uma reviravolta inusitada, um gato de rua foi promovido a chef de cozinha em um restaurante francês de alta classe. Após demonstrar habilidades culinárias excepcionais, incluindo uma paixão por temperos e uma técnica de amassar massa incomparável, o felino conquistou o coração dos proprietários e clientes. Embora alguns possam questionar a higiene dessa decisão, os amantes de gatos estão aplaudindo a iniciativa como uma vitória para a inclusão animal na indústria gastronômica.',
+    linkNews: 'https://i.ytimg.com/vi/L2wib7c8g3o/maxresdefault.jpg',
+  },
 ];

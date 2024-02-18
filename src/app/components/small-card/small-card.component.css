@@ -32,18 +32,24 @@ hr {
   margin-top: 10px;
 }
 
+.small-card__title {
+  margin-top: 5px;
+  text-align: center;
+}
+
 .small-card__text > span {
   font-weight: 600;
   color: lightgrey;
   font-size: 12px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-right: 30px;
 }
 
 @media (max-width: 900px) {
   .container__small-card-content {
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
   }
 
   .container__small-card {
@@ -52,5 +58,10 @@ hr {
 
   .small-card__photo > a > img {
     margin-bottom: 10px;
+  }
+
+  .small-card__title {
+    font-size: 50%;
+    width: 300px;
   }
 }

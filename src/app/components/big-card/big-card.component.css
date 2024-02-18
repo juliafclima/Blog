@@ -23,9 +23,10 @@
   margin-top: 10px;
   color: #808080;
   display: -webkit-box;
-  -webkit-line-clamp: 1;
+  -webkit-line-clamp: 2;
   overflow: hidden;
   -webkit-box-orient: vertical;
+  margin-left: 15px;
 }
 
 .small-card__text > span {
@@ -33,5 +34,7 @@
   color: lightgrey;
   margin-top: 5px;
   font-size: 12px;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 15px;
 }
