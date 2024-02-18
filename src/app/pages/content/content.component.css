@@ -41,7 +41,7 @@
 
 .content_description > p {
   margin-top: 20px;
-  width: 300px;
+  width: 800px;
   color: #808080;
   text-indent: 15px;
   text-align: justify;
@@ -56,5 +56,11 @@
 
   &:hover {
     text-decoration: underline;
+  }
+}
+
+@media (max-width: 768px) {
+  .content_description > p {
+    width: 300px;
   }
 }
