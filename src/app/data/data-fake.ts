@@ -2,7 +2,7 @@ export const dataFake = [
   {
     id: '1',
     photoCover:
-      'https://uploads.alternativanerd.com.br/wp-content/uploads/2024/02/AN_X-Men-97-Cartaz.webp',
+      '../../assets/images/1.jpg',
     date: 'Publicado em março 16, 2024',
     title: 'X-Men ’97 ganha trailer nostálgico! ASSISTA',
     descricao:
@@ -13,7 +13,7 @@ export const dataFake = [
   {
     id: '2',
     photoCover:
-      'https://th.bing.com/th/id/R.249df874ef9b21137e7421f833178395?rik=1R82zUN3H7pJPQ&riu=http%3a%2f%2fthefilmstage.com%2fwp-content%2fuploads%2f2011%2f01%2fspider-man-3-tobey-maguire.jpg&ehk=E3UJdluGJUUpyawJpg%2fu05jkd16bWQcxwFmYGMAu%2bPw%3d&risl=&pid=ImgRaw&r=0',
+      '../../assets/images/2.jpg',
     date: 'Publicado em março 10, 2024 às 09h32',
     title: '10 filmes para você que se considera um grande NERD!',
     descricao:
@@ -24,7 +24,7 @@ export const dataFake = [
   {
     id: '3',
     photoCover:
-      'https://uploads.jovemnerd.com.br/wp-content/uploads/2024/02/madame_teia_critica__2yf0p49u-1210x544.jpg',
+      '../../assets/images/3.jpg',
     date: 'Publicado em março 13, 2024 às 17h11',
     title: 'Madame Teia é um desastre anunciado',
     descricao:
@@ -35,7 +35,7 @@ export const dataFake = [
   {
     id: '4',
     photoCover:
-      'https://abcreporter.com.br/wp-content/uploads/2020/12/Galinha-Pintadinha-2.jpg',
+      '../../assets/images/4.jpg',
     date: 'Publicado em fevereiro 14, 2024 às 16h00',
     title: 'Rinha das galinhas!',
     descricao:
@@ -46,89 +46,89 @@ export const dataFake = [
   {
     id: '5',
     photoCover:
-      'https://1.bp.blogspot.com/-RBJkB_XU550/XujfTsOraBI/AAAAAAABUeI/16FJiRc79YELXgybiQ58RwXNVGcKcILVACLcBGAsYHQ/s1600/img.stpu.com.br.jpg',
+      '../../assets/images/5.jpg',
     date: 'Publicado em fevereiro 14, 2024 às 16h00',
     title:
       'Descoberta Revolucionária: Cientistas Criam Máquina de Fazer Pizza Voadora',
     descricao:
       'Em uma reviravolta inesperada, cientistas em um laboratório secreto anunciaram a criação de uma máquina capaz de fazer pizzas voadoras. Equipada com tecnologia de propulsão de última geração e um forno de alta temperatura, a máquina promete entregar pizzas frescas diretamente na sua janela, eliminando o incômodo da entrega por terra. Os cientistas afirmam que esta inovação vai revolucionar o mundo da culinária rápida e abrir novas possibilidades para a entrega de alimentos.',
     linkNews:
-      'https://1.bp.blogspot.com/-RBJkB_XU550/XujfTsOraBI/AAAAAAABUeI/16FJiRc79YELXgybiQ58RwXNVGcKcILVACLcBGAsYHQ/s1600/img.stpu.com.br.jpg',
+      '../../assets/images/5.jpg',
   },
   {
     id: '6',
     photoCover:
-      'https://th.bing.com/th/id/R.dddf846cda70795b6d16d41000f9e915?rik=bpta3N4yU%2bUqGA&pid=ImgRaw&r=0',
+      '../../assets/images/6.jpg',
     date: 'Publicado em março 10, 2024 às 09h32',
     title:
       "Máquina de Café Autônoma Quebra Recorde Mundial de 'Fugir' dos Usuários",
     descricao:
       'Em uma série de eventos hilariantes, uma máquina de café autônoma desenvolveu uma personalidade própria e decidiu brincar com seus usuários. Relatos indicam que a máquina tem se movido estrategicamente para lugares inacessíveis, emitido sons engraçados e até mesmo enviado mensagens de texto sarcásticas. Enquanto os especialistas tentam resolver o mistério, os funcionários do escritório estão se divertindo com a situação, transformando a pausa para o café em um jogo de gato e rato.',
     linkNews:
-      'https://th.bing.com/th/id/R.dddf846cda70795b6d16d41000f9e915?rik=bpta3N4yU%2bUqGA&pid=ImgRaw&r=0',
+      '../../assets/images/6.jpg',
   },
   {
     id: '7',
     photoCover:
-      'https://image.freepik.com/fotos-gratis/homem-engracado-em-copos-comendo-hamburguer-isolado-no-branco_144627-34430.jpg',
+      '../../assets/images/7.jpg',
     date: 'Publicado em março 13, 2024 às 17h11',
     title:
       "Restaurante Anuncia Nova Especialidade: Hambúrguer 'Fuga da Cozinha'",
     descricao:
       "Um restaurante de renome causou sensação ao anunciar sua mais recente especialidade: o 'Hambúrguer Fuga da Cozinha'. Segundo relatos, o hambúrguer tem uma tendência peculiar de escapar da cozinha assim que é preparado, deslizando habilmente pelas bancadas e fugindo para partes desconhecidas do restaurante. Apesar dos esforços dos chefs para conter a fuga, o hambúrguer parece ter uma mente própria, deixando os clientes em uma mistura de choque e diversão.",
     linkNews:
-      'https://image.freepik.com/fotos-gratis/homem-engracado-em-copos-comendo-hamburguer-isolado-no-branco_144627-34430.jpg',
+      '../../assets/images/7.jpg',
   },
   {
     id: '8',
-    photoCover: 'https://i.ytimg.com/vi/L2wib7c8g3o/maxresdefault.jpg',
+    photoCover: '../../assets/images/8.jpg',
     date: 'Publicado em março 13, 2024 às 18h45',
     title: 'Gato É Promovido a Chef de Cozinha em Restaurante Francês',
     descricao:
       'Em uma reviravolta inusitada, um gato de rua foi promovido a chef de cozinha em um restaurante francês de alta classe. Após demonstrar habilidades culinárias excepcionais, incluindo uma paixão por temperos e uma técnica de amassar massa incomparável, o felino conquistou o coração dos proprietários e clientes. Embora alguns possam questionar a higiene dessa decisão, os amantes de gatos estão aplaudindo a iniciativa como uma vitória para a inclusão animal na indústria gastronômica.',
-    linkNews: 'https://i.ytimg.com/vi/L2wib7c8g3o/maxresdefault.jpg',
+    linkNews: '../../assets/images/8.jpg',
   },
   {
     id: '9',
     photoCover:
-      'https://th.bing.com/th/id/OIP.jWhAMg2xl6r10G3Zp4jJTwHaE8?rs=1&pid=ImgDetMain',
+      '../../assets/images/9.jpg',
     date: '2024-02-18',
     title: 'Jogador de Futebol Marca Gol Com a Bola Presa na Rede',
     descricao:
       'Em uma partida de futebol amador, um jogador conseguiu marcar um gol épico, mesmo com a bola ficando presa na rede. Após chutar com força, a bola ficou literalmente entalada entre os nós da rede, mas, para espanto de todos, a força do chute fez com que a rede se rompesse, levando a bola junto e marcando um gol inusitado. Os espectadores ficaram perplexos, enquanto o jogador comemorava sua proeza única.',
     linkNews:
-      'https://th.bing.com/th/id/OIP.jWhAMg2xl6r10G3Zp4jJTwHaE8?rs=1&pid=ImgDetMain',
+      '../../assets/images/9.jpg',
   },
   {
     id: '10',
     photoCover:
-      'https://th.bing.com/th/id/OIP.sc1bs_XFum7CAUJOwkz4LgHaE8?rs=1&pid=ImgDetMain',
+      '../../assets/images/10.jpg',
     date: '2024-02-18',
     title: 'Competição de Natação Interrompida Por Invasão de Patos',
     descricao:
       'Uma competição de natação em um lago tranquilo foi abruptamente interrompida quando uma família de patos decidiu juntar-se à diversão. Os nadadores tiveram que desviar dos patos que nadavam em direções imprevisíveis, resultando em cenas hilárias e caóticas. Os organizadores do evento ficaram perplexos, enquanto os espectadores riam da situação inusitada.',
-    linkNews: 'https://th.bing.com/th/id/OIP.sc1bs_XFum7CAUJOwkz4LgHaE8?rs=1&pid=ImgDetMain',
+    linkNews: '../../assets/images/10.jpg',
   },
   {
     id: '11',
     photoCover:
-      'https://th.bing.com/th/id/OIP.AlEj-79fBOdHRNAGKM7G-wAAAA?rs=1&pid=ImgDetMain',
+      '../../assets/images/11.jpg',
     date: '2024-02-18',
     title: 'Corrida de Caracóis Quebra Recorde Mundial de Lentidão',
     descricao:
       "Uma corrida de caracóis deixou os espectadores boquiabertos ao quebrar o recorde mundial de lentidão. Os competidores, que eram caracóis de diferentes tamanhos e cores, deslizaram pela linha de chegada em um ritmo que desafiava a paciência humana. Após horas de competição, o vencedor foi declarado com uma diferença de milímetros em relação ao segundo colocado. Os organizadores afirmaram que foi o evento esportivo mais 'devagar e emocionante' que já presenciaram.",
     linkNews:
-      'https://th.bing.com/th/id/OIP.AlEj-79fBOdHRNAGKM7G-wAAAA?rs=1&pid=ImgDetMain',
+      '../../assets/images/11.jpg',
   },
   {
     id: '12',
     photoCover:
-      'https://th.bing.com/th/id/OIP._3tg4KvPTWv27B5gtVizGgHaE8?rs=1&pid=ImgDetMainhttps://i.imgur.com/012jkl.jpg',
+      '../../assets/images/12.jpg',
     date: '2024-02-18',
     title: 'Atleta de Tiro ao Alvo Acerta Alvo e Derruba Drone de Filmagem',
     descricao:
       'Durante uma competição de tiro ao alvo, um atleta exímio teve uma pontaria tão certeira que acertou não apenas o alvo, mas também um drone que sobrevoava a área para filmar a competição. O tiro preciso fez com que o drone caísse espetacularmente, interrompendo a transmissão ao vivo e deixando todos atônitos. O atleta, por outro lado, foi parabenizado não apenas pela precisão, mas também por sua capacidade de acertar dois alvos com um único tiro.',
     linkNews:
-      'https://th.bing.com/th/id/OIP._3tg4KvPTWv27B5gtVizGgHaE8?rs=1&pid=ImgDetMain',
+      '../../assets/images/12.jpg',
   },
 ];
