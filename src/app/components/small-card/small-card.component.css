@@ -65,3 +65,8 @@ hr {
     width: 300px;
   }
 }
+
+.small-card__title {
+  font-size: 80%;
+  width: 500px;
+}

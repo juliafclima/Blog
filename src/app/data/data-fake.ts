@@ -82,10 +82,53 @@ export const dataFake = [
   {
     id: '8',
     photoCover: 'https://i.ytimg.com/vi/L2wib7c8g3o/maxresdefault.jpg',
-    date: '2024-02-18',
+    date: 'Publicado em março 13, 2024 às 18h45',
     title: 'Gato É Promovido a Chef de Cozinha em Restaurante Francês',
     descricao:
       'Em uma reviravolta inusitada, um gato de rua foi promovido a chef de cozinha em um restaurante francês de alta classe. Após demonstrar habilidades culinárias excepcionais, incluindo uma paixão por temperos e uma técnica de amassar massa incomparável, o felino conquistou o coração dos proprietários e clientes. Embora alguns possam questionar a higiene dessa decisão, os amantes de gatos estão aplaudindo a iniciativa como uma vitória para a inclusão animal na indústria gastronômica.',
     linkNews: 'https://i.ytimg.com/vi/L2wib7c8g3o/maxresdefault.jpg',
+  },
+  {
+    id: '9',
+    photoCover:
+      'https://th.bing.com/th/id/OIP.jWhAMg2xl6r10G3Zp4jJTwHaE8?rs=1&pid=ImgDetMain',
+    date: '2024-02-18',
+    title: 'Jogador de Futebol Marca Gol Com a Bola Presa na Rede',
+    descricao:
+      'Em uma partida de futebol amador, um jogador conseguiu marcar um gol épico, mesmo com a bola ficando presa na rede. Após chutar com força, a bola ficou literalmente entalada entre os nós da rede, mas, para espanto de todos, a força do chute fez com que a rede se rompesse, levando a bola junto e marcando um gol inusitado. Os espectadores ficaram perplexos, enquanto o jogador comemorava sua proeza única.',
+    linkNews:
+      'https://th.bing.com/th/id/OIP.jWhAMg2xl6r10G3Zp4jJTwHaE8?rs=1&pid=ImgDetMain',
+  },
+  {
+    id: '10',
+    photoCover:
+      'https://th.bing.com/th/id/OIP.sc1bs_XFum7CAUJOwkz4LgHaE8?rs=1&pid=ImgDetMain',
+    date: '2024-02-18',
+    title: 'Competição de Natação Interrompida Por Invasão de Patos',
+    descricao:
+      'Uma competição de natação em um lago tranquilo foi abruptamente interrompida quando uma família de patos decidiu juntar-se à diversão. Os nadadores tiveram que desviar dos patos que nadavam em direções imprevisíveis, resultando em cenas hilárias e caóticas. Os organizadores do evento ficaram perplexos, enquanto os espectadores riam da situação inusitada.',
+    linkNews: 'https://th.bing.com/th/id/OIP.sc1bs_XFum7CAUJOwkz4LgHaE8?rs=1&pid=ImgDetMain',
+  },
+  {
+    id: '11',
+    photoCover:
+      'https://th.bing.com/th/id/OIP.AlEj-79fBOdHRNAGKM7G-wAAAA?rs=1&pid=ImgDetMain',
+    date: '2024-02-18',
+    title: 'Corrida de Caracóis Quebra Recorde Mundial de Lentidão',
+    descricao:
+      "Uma corrida de caracóis deixou os espectadores boquiabertos ao quebrar o recorde mundial de lentidão. Os competidores, que eram caracóis de diferentes tamanhos e cores, deslizaram pela linha de chegada em um ritmo que desafiava a paciência humana. Após horas de competição, o vencedor foi declarado com uma diferença de milímetros em relação ao segundo colocado. Os organizadores afirmaram que foi o evento esportivo mais 'devagar e emocionante' que já presenciaram.",
+    linkNews:
+      'https://th.bing.com/th/id/OIP.AlEj-79fBOdHRNAGKM7G-wAAAA?rs=1&pid=ImgDetMain',
+  },
+  {
+    id: '12',
+    photoCover:
+      'https://th.bing.com/th/id/OIP._3tg4KvPTWv27B5gtVizGgHaE8?rs=1&pid=ImgDetMainhttps://i.imgur.com/012jkl.jpg',
+    date: '2024-02-18',
+    title: 'Atleta de Tiro ao Alvo Acerta Alvo e Derruba Drone de Filmagem',
+    descricao:
+      'Durante uma competição de tiro ao alvo, um atleta exímio teve uma pontaria tão certeira que acertou não apenas o alvo, mas também um drone que sobrevoava a área para filmar a competição. O tiro preciso fez com que o drone caísse espetacularmente, interrompendo a transmissão ao vivo e deixando todos atônitos. O atleta, por outro lado, foi parabenizado não apenas pela precisão, mas também por sua capacidade de acertar dois alvos com um único tiro.',
+    linkNews:
+      'https://th.bing.com/th/id/OIP._3tg4KvPTWv27B5gtVizGgHaE8?rs=1&pid=ImgDetMain',
   },
 ];
